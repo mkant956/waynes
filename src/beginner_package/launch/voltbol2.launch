@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="beginner_package" name="encd" type="tryfile.py"/>
+    <node pkg="beginner_package" name="bear_encd" type="publishBearingEncoderv3.py"/>
+    <node pkg="beginner_package" name="listenerMotor" type="listenerMotor.py"/>
+</launch>

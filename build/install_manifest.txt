@@ -1,0 +1,10 @@
+/home/pi/catkin_ws/install/_setup_util.py
+/home/pi/catkin_ws/install/env.sh
+/home/pi/catkin_ws/install/setup.bash
+/home/pi/catkin_ws/install/setup.sh
+/home/pi/catkin_ws/install/setup.zsh
+/home/pi/catkin_ws/install/.rosinstall
+/home/pi/catkin_ws/install/lib/pkgconfig/beginner_package.pc
+/home/pi/catkin_ws/install/share/beginner_package/cmake/beginner_packageConfig.cmake
+/home/pi/catkin_ws/install/share/beginner_package/cmake/beginner_packageConfig-version.cmake
+/home/pi/catkin_ws/install/share/beginner_package/package.xml
