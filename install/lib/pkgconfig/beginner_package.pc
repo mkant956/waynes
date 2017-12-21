@@ -3,6 +3,6 @@ prefix=/home/pi/catkin_ws/install
 Name: beginner_package
 Description: Description of beginner_package
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/pi/catkin_ws/install/include
 Libs: -L/home/pi/catkin_ws/install/lib 
-Requires: 
+Requires: message_runtime roscpp rospy std_msgs

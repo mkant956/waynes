@@ -5,4 +5,4 @@ Description: Description of beginner_package
 Version: 0.0.0
 Cflags: -I/home/pi/catkin_ws/devel/include
 Libs: -L/home/pi/catkin_ws/devel/lib 
-Requires: 
+Requires: message_runtime roscpp rospy std_msgs

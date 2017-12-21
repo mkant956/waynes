@@ -60,7 +60,7 @@ def distPublish(frontUltrasonic):#,leftUltrasonic='null',frontUltrasonic='null')
 	    rospy.loginfo('front: '+str(fdist))
 #	    pubr.publish(rdist)
 #	    publ.publish(ldist)
-	    pubf.publish(fdist)
+	    pubf.publish(str(fdist))
 	    rate.sleep()
 
 

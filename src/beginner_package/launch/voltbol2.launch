@@ -2,4 +2,8 @@
 	<node pkg="beginner_package" name="encd" type="tryfile.py"/>
     <node pkg="beginner_package" name="bear_encd" type="publishBearingEncoderv3.py"/>
     <node pkg="beginner_package" name="listenerMotor" type="listenerMotor.py"/>
+        <node pkg="beginner_package" name="publishultrasonicfr" type="publishUltrasonicFront.py"/>
+        <node pkg="beginner_package" name="publishultrasonicle" type="publishUltrasonicLeft.py"/>
+                <node pkg="beginner_package" name="publishultrasonicri" type="publishUltrasonicRight.py"/>
+        
 </launch>

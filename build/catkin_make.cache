@@ -1,2 +1,2 @@
-beginner_package
+beginner_package:mobile_robot
 -DCATKIN_DEVEL_PREFIX=/home/pi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/catkin_ws/install -G Unix Makefiles

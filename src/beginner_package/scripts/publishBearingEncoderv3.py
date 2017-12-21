@@ -83,7 +83,7 @@ def getBearingData():
 
 
 def bearingPublish():
-    pub = rospy.Publisher('bear_encd', String, queue_size=10)
+    pub = rospy.Publisher('bear_encd2', String, queue_size=10)
     rospy.init_node('bear_encoder', anonymous=True)
     f=open('/home/pi/catkin_ws/src/beginner_package/scripts/encdl','r')
     rate=rospy.Rate(10)
